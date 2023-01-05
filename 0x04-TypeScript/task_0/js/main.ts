@@ -1,14 +1,14 @@
 var student1 = {
-    firstName: 'firdaus',
-    lastName: 'salim',
-    age: 21,
-    location: 'mombasa'
+    firstName: 'Tana',
+    lastName: 'Mbindi',
+    age: 25,
+    location: 'Harare'
 };
 var student2 = {
-    firstName: 'beta',
-    lastName: 'scribbles',
-    age: 25,
-    location: 'kenya'
+    firstName: 'Tate',
+    lastName: 'Mbindi',
+    age: 32,
+    location: 'chiyadzwa'
 };
 var studentsList = [student1, student2];
 var table = document.createElement('table');
